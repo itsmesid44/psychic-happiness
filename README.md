@@ -141,3 +141,9 @@ psychic-happiness/
 
 ## Built By
 Part of the Stasis program.
+<img width="1600" height="786" alt="image" src="https://github.com/user-attachments/assets/9b113bf8-6b06-4b2d-be69-d47692e8c8d1" />
+<img width="1600" height="778" alt="image" src="https://github.com/user-attachments/assets/05640d87-478f-4f5a-a94e-eb45ba662054" />
+<img width="1600" height="739" alt="image" src="https://github.com/user-attachments/assets/db53d115-5297-432b-b9b0-b609358f8a72" />
+
+
+
